@@ -1,4 +1,4 @@
-/*
+Roofworrior/pix-EzViewer
  * MIT License
  *
  * Copyright (c) 2019 Perol_Notsfsssf
